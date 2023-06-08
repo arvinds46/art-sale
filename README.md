@@ -1,2 +1,3 @@
-# art-sale
-art-sale
+- 🌱 This Repo is about Art Sales
+- 💞️ It is written in ReactNative
+- 📫 Contact arvind_b6u93@tataneuskills.com
